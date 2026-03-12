@@ -74,5 +74,5 @@ http://your-ec2-public-ip:3000
 
 # Author
 
-# Ajay Yadav
-# Aspiring AWS / DevOps Engineer
+Ajay Yadav
+Aspiring AWS / DevOps Engineer
