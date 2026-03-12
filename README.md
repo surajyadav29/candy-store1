@@ -22,11 +22,11 @@ npm
 
 2️. Configure Security Group Ports
 
-Port	  | Purpose
-_____________________
-22      |	SSH Access
-80      |	HTTP
-3000    |	Node.js Application
+# Port and Purpose
+
+1. 22 SSH Access, 
+2. 80 HTTP,
+3. 3000 Node.js Application.
 
 # Deploy From Local Project → GitHub → EC2
 # Step 1 – Open Terminal and Navigate to Project
