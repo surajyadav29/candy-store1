@@ -8,18 +8,17 @@ The purpose of this project is to demonstrate cloud deployment skills required f
 
 # Tech Stack
 
-Node.js
-Express.js
-Git
-GitHub
-AWS EC2
-Linux (Amazon Linux)
+Node.js,
+Express.js, 
+Git,
+GitHub,
+AWS EC2,
+Linux (Amazon Linux),
 npm
 
 # AWS EC2 Setup
 
 1. Launch an EC2 Instance
-
 2️. Configure Security Group Ports
 
 # Port and Purpose
