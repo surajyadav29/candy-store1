@@ -15,7 +15,7 @@ Deploy a Node.js application from GitHub to an Amazon EC2 cloud server.
 
 # Deployment Steps
 
-## 1️⃣ Launch EC2 Instance
+## 1️ Launch EC2 Instance
 
 Launch an EC2 instance from the AWS console.
 
@@ -26,7 +26,7 @@ Creates a virtual server in the cloud where the application will run.
 
 ---
 
-## 2️⃣ Configure Security Group
+## 2️ Configure Security Group
 
 Allow these ports:
 
@@ -38,7 +38,7 @@ Allow these ports:
 
 ---
 
-## 3️⃣ Open WSL Terminal
+## 3️ Open WSL Terminal
 
 Move to the folder containing the EC2 key:
 
@@ -48,7 +48,7 @@ cd Downloads
 
 ---
 
-## 4️⃣ Connect to EC2 Server
+## 4️ Connect to EC2 Server
 
 ```
 ssh -i ec2.pem ec2-user@51.21.171.67
